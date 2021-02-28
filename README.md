@@ -3,6 +3,7 @@
 This is an open community Rococo parachain testnet. The goal is to expedite parachain testing, and lower the overhead with shared infrastructure. 
 
 # The Network
+- Connect to Community-Rococo via [Polkadot-JS Web App](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Frococo-community.laminar.codes#/explorer).
 - RPC endpoint: `wss://rococo-community.laminar.codes/ws`
 - Bootnode: `/ip4/3.26.42.61/tcp/30333/p2p/12D3KooWA19bypiGn9aVaqNeBHmWqNobZQnRGk7dLRAQTvRPfgXy`
 - Chain spec: https://github.com/open-web3-stack/rococo-community/blob/master/rococo-community.json
