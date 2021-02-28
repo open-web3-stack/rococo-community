@@ -2,8 +2,8 @@
 
 ## Network details
 
-- RPC endpoint: wss://rococo-community.laminar.codes/ws
-- Bootnode: /ip4/3.26.42.61/tcp/30333/p2p/12D3KooWA19bypiGn9aVaqNeBHmWqNobZQnRGk7dLRAQTvRPfgXy
+- RPC endpoint: `wss://rococo-community.laminar.codes/ws`
+- Bootnode: `/ip4/3.26.42.61/tcp/30333/p2p/12D3KooWA19bypiGn9aVaqNeBHmWqNobZQnRGk7dLRAQTvRPfgXy`
 - Chain spec: https://github.com/open-web3-stack/rococo-community/blob/master/rococo-community.json
 
 ## Run with docker
