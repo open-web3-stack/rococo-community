@@ -40,3 +40,7 @@ If you'd like to contribute in any way, such as running validator nodes, feel fr
 
 ## Composable Chains
 To test cross-chain token transfers, please refer to this [guide](https://wiki.acala.network/build/development-guide/composable-chains).
+
+# Collators
+
+- Acala Mandala PC2: wss://rococo-community-acala.laminar.codes/ws
