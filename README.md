@@ -43,4 +43,4 @@ To test cross-chain token transfers, please refer to this [guide](https://wiki.a
 
 # Collators
 
-- Acala Mandala PC2: wss://rococo-community-acala.laminar.codes/ws
+- Acala Mandala PC2: `wss://rococo-community-acala.laminar.codes/ws`
