@@ -26,8 +26,8 @@ Please post your details to https://github.com/open-web3-stack/rococo-community/
 
 # Collator dependencies
 
-Polkadot: use commit `9bc8915acd5507a77737371fdd892bb1f6a8db22`.
+Those commits are used by Acala collator. Other commit may or may not work.
 
-Cumulus: use commit `fad35c28b1f73aaeb25dedb46674b48774c092b4`.
-
-Substrate: use commit `e03ca38d45f438932ec92bf69a40b6b16b6ec643`.
+- Polkadot: `9bc8915acd5507a77737371fdd892bb1f6a8db22`
+- Cumulus: `fad35c28b1f73aaeb25dedb46674b48774c092b4`
+- Substrate: `e03ca38d45f438932ec92bf69a40b6b16b6ec643`
