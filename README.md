@@ -14,3 +14,7 @@ docker run \
   --rpc-methods=Unsafe \
   --wasm-execution=Compiled
 ```
+
+# Faucet
+
+Please post your details to https://github.com/open-web3-stack/rococo-community/discussions/2
