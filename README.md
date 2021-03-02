@@ -4,7 +4,7 @@ This is an open community Rococo parachain testnet. The goal is to expedite para
 
 # The Network
 - Connect to Community-Rococo via [Polkadot-JS Web App](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Frococo-community.laminar.codes#/explorer).
-- RPC endpoint: `wss://rococo-community.laminar.codes/ws`
+- RPC endpoint: [wss://rococo-community-rpc.laminar.codes/ws](https://polkadot.js.org/apps/?rpc=wss://rococo-community-rpc.laminar.codes/ws#/explorer)
 - Bootnode: `/ip4/3.1.243.130/tcp/30335/p2p/12D3KooWDfjgSLT4bR535za1BZGSzCLdLgjhJz2s9tGQmnATmM8t`
 - Chain spec: https://github.com/open-web3-stack/rococo-community/blob/master/rococo-community.json
 
@@ -42,4 +42,4 @@ To test cross-chain token transfers, please refer to this [guide](https://wiki.a
 
 # Collators
 
-- Acala Mandala PC2: `wss://rococo-community-acala.laminar.codes/ws`
+- Acala Mandala PC2: [wss://rococo-community-acala.laminar.codes/ws](https://polkadot.js.org/apps/?rpc=wss://rococo-community-acala.laminar.codes/ws#/explorer)
