@@ -42,5 +42,6 @@ To test cross-chain token transfers, please refer to this [guide](https://wiki.a
 
 # Collators
 
-- Acala Mandala PC2: [wss://rococo-community-acala.laminar.codes/ws](https://polkadot.js.org/apps/?rpc=wss://rococo-community-acala.laminar.codes/ws#/explorer)
+- Acala Mandala PC2: [wss://rococo-community-acala.laminar.codes/ws](https://polkadot.js.org/apps/?rpc=wss://rococo-community-acala.laminar.codes/ws)
   - Note: Please add our custom types in [./acala-types.json](./acala-types.json)
+- Laminar Turbulence PC2: [wss://rococo-community-laminar.laminar.codes/ws](https://polkadot.js.org/apps/?rpc=wss://rococo-community-laminar.laminar.codes/ws)
