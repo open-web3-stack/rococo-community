@@ -1,6 +1,6 @@
 # Community Rococo
 
-This is an open community Rococo parachain testnet. The goal is to expedite parachain testing, and lower the overhead with shared infrastructure. 
+This is an open community Rococo parachain testnet. The goal is to expedite parachain testing, and lower the overhead with shared infrastructure.
 
 # The Network
 - Connect to Community-Rococo via [Polkadot-JS Web App](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Frococo-community.laminar.codes#/explorer).
@@ -14,7 +14,7 @@ This is an open community Rococo parachain testnet. The goal is to expedite para
 docker run \
   -p 9944:9944 \
   -v $(pwd)/rococo-community.json:/rococo-community.json \
-  parity/rococo:rococo-v1 --chain=/rococo-community.json \
+  parity/rococo:rococo-v1-0.8.29-2f7b9750-ad9db415 --chain=/rococo-community.json \
   --ws-external \
   --rpc-cors=all \
   --rpc-methods=Unsafe \
@@ -30,12 +30,12 @@ Please post your details to https://github.com/open-web3-stack/rococo-community/
 
 Those commits are used by Acala collator. Other commit may or may not work.
 
-- Polkadot: `9bc8915acd5507a77737371fdd892bb1f6a8db22`
-- Cumulus: `fad35c28b1f73aaeb25dedb46674b48774c092b4`
-- Substrate: `e03ca38d45f438932ec92bf69a40b6b16b6ec643`
+- Polkadot: `2f7b975015d5c3f50199cda82b9b84e38726d001`
+- Cumulus: `24b1ee6bd1d96f255889f167e59ef9c9399a6305`
+- Substrate: `4ad76dc01fb94eb5ba1fa6779af893e3675cbad2`
 
 ## Contribute
-If you'd like to contribute in any way, such as running validator nodes, feel free to do so. 
+If you'd like to contribute in any way, such as running validator nodes, feel free to do so.
 
 ## Composable Chains
 To test cross-chain token transfers, please refer to this [guide](https://wiki.acala.network/build/development-guide/composable-chains).
