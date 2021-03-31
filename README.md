@@ -14,7 +14,7 @@ This is an open community Rococo parachain testnet. The goal is to expedite para
 docker run \
   -p 9944:9944 \
   -v $(pwd)/rococo-community.json:/rococo-community.json \
-  parity/rococo:rococo-v1-0.8.29-2f7b9750-ad9db415 --chain=/rococo-community.json \
+  parity/rococo:rococo-v1-0.8.29-24f84ea0-f9a68cf4 --chain=/rococo-community.json \
   --ws-external \
   --rpc-cors=all \
   --rpc-methods=Unsafe \
@@ -30,9 +30,9 @@ Please post your details to https://github.com/open-web3-stack/rococo-community/
 
 Those commits are used by Acala collator. Other commit may or may not work.
 
-- Polkadot: `2f7b975015d5c3f50199cda82b9b84e38726d001`
-- Cumulus: `24b1ee6bd1d96f255889f167e59ef9c9399a6305`
-- Substrate: `4ad76dc01fb94eb5ba1fa6779af893e3675cbad2`
+- Polkadot: `6900ce8ef52b1bb80b3fe606dd9af1da441c4d79`
+- Cumulus: `2fc85fd6737d29e875e7b700cfebc4186b7c3232`
+- Substrate: `1404f2af4cbe90d35b4c8a1405a9452feb789adc`
 
 ## Contribute
 If you'd like to contribute in any way, such as running validator nodes, feel free to do so.
