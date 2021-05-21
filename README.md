@@ -5,7 +5,7 @@ This is an open community Rococo parachain testnet. The goal is to expedite para
 # The Network
 - Connect to Community-Rococo via [Polkadot-JS Web App](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Frococo-community-rpc.laminar.codes/ws#/explorer).
 - RPC endpoint: [wss://rococo-community-rpc.laminar.codes/ws](https://polkadot.js.org/apps/?rpc=wss://rococo-community-rpc.laminar.codes/ws#/explorer)
-- Bootnode: `/ip4/3.1.243.130/tcp/30335/p2p/12D3KooWLdZ4NrFaHPeUJqzafC5mD6StGezcWMoR9f4oRGyyiBDS`
+- Bootnode: `/ip4/3.1.243.130/tcp/30335/p2p/12D3KooWGa3N1NABNk161nK95eCgkDbYdz2PeYrGXuiygSZsDkF4`
 - Chain spec: [rococo-community.json](./rococo-community.json)
 
 ## Run with Docker
